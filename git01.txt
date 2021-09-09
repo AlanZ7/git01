@@ -1,1 +1,9 @@
-dsaD
+Git 仓库初始化与文件提交
+
+
+工作区-暂存区-本地仓库
+git init 初始化本地仓库
+git add 文件添加到暂存区
+git status 查看文件当前状态
+git commit 提交暂存区到本地仓库
+git ls-files 查看仓库文件列表 
